@@ -1,2 +1,2 @@
 # sounds-wavestab
-Some wavetable stabs for the TIdalCycles Clean Samples Project
+Some wavetable stabs for the TidalCycles Clean Samples Project
