@@ -1,0 +1,29 @@
+{
+  "copyright": "(c) 2021 Zach Lannes",
+  "description": "Some wavetable stabs I made in VCV Rack",
+  "email": "lannzach@gmail.com",
+  "license": "CC0",
+  "maintainer": "lannzach",
+  "metadata-format": "clean-0.1",
+  "provenance": "Wavetable stabs made in VCV Rack",
+  "sounds": [
+    {
+      "description": "A short, plucky stab",
+      "filename": "wavestab/0.wav",
+      "shortname": "0",
+      "type": "sample"
+    },
+    {
+      "description": "A short, rapidly oscillating stab",
+      "filename": "wavestab/1.wav",
+      "shortname": "1",
+      "type": "sample"
+    },
+    {
+      "description": "Nine fast repeated stabs",
+      "filename": "wavestab/2.wav",
+      "shortname": "2",
+      "type": "sample"
+    }
+  ]
+}
